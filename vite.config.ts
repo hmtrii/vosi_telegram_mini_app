@@ -8,5 +8,5 @@ export default defineConfig({
   build: {
     outDir: './docs'
   },
-  base: '/vosi_telegram_mini_app /'
+  base: '/vosi_telegram_mini_app/'
 });
